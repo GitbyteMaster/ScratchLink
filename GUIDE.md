@@ -7,7 +7,7 @@ And a few functions unusable for normal users:
 
 `ScratchLink.give.user.unreadmsgs(*)` Giving You a Scratch User's Unread Messages.
 
-To use ScratchLink, extract 'ScratchLink 1.1.0.py' from the .zip into the same directory as your Python File, and type in `import ScratchLink [VERSION]`. There, Done!
+To use ScratchLink, extract 'ScratchLink [VERSION].py' from the .zip into the same directory as your Python File, and type in `import ScratchLink [VERSION]`. There, Done!
 
 Function List:
 [ScratchLink Imports the Urllib & OS module.]
