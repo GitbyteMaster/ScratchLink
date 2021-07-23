@@ -16,8 +16,10 @@ Function List:
 
 `ScratchLink.give.count.countallprojects()` Gives You the Number of Projects in Scratch.
 
-`ScratchLink.give.user.count.unreadmsgs(*)` Gives You a Scratch User's Number of Unread Messages.
+`ScratchLink.give.user.count.unreadmsgs(*)` (*Username) Gives You a Scratch User's Number of Unread Messages.
 
-`ScratchLink.give.user.giveid(*)` Gives You a Scratch User's ID.
+`ScratchLink.give.user.giveid(*)` (*Username) Gives You a Scratch User's ID.
 
-`ScratchLink.give.user.unreadmsgs(*)` [UNAUTHORIZED] Gives You a Scratch User's Unread Messages.
+`ScratchLink.give.user.unreadmsgs(*)` (*Username) [UNAUTHORIZED] Gives You a Scratch User's Unread Messages.
+
+`ScratchLink.give.project.givetitle(*, **)` (*Username, *Project Number [Example: Their 3rd Project = 3] Gives You the Title of A Scratch User's Project by Number.
