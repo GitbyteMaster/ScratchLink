@@ -1,5 +1,5 @@
 # ScratchLink
-Latest: 1.2.0
+Latest: 1.3.0
 
 Welcome to ScratchLink! Along with a new module comes with functions, such as:
 
