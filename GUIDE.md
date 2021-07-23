@@ -1,4 +1,6 @@
 # ScratchLink
+Latest: 1.1.0
+
 Welcome to ScratchLink! Along with a new module comes with functions, such as:
 
 `ScratchLink.give.user.giveid(*)` Giving You a Scratch User's ID.
