@@ -1,5 +1,5 @@
 # ScratchLink
-Windows Current Version: 1.3.0 - 1.3.1 | Mac Current Version: 0.0.1
+Windows Current Version: 1.4.1 | Mac Current Version: 0.0.1
 
 Welcome to ScratchLink! Along with a new module comes with functions, such as:
 
